@@ -1,0 +1,18 @@
+.container-fluid{
+    display: flex;
+}
+.section-list{
+    flex: 3;
+}
+.section-form{
+    flex: 2;
+}
+
+#iImportant{
+    font-size: 35px;
+    color: blue;
+    cursor: pointer;
+}
+#iImportant:hover{
+    color:  rgb(247, 60, 200);
+}
